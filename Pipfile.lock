@@ -1,7 +1,7 @@
 {
     "_meta": {
         "hash": {
-            "sha256": "7e200838ca4abfbcb5e7265a07183891c45f440bcd9b28caa7aade6a7dd6398e"
+            "sha256": "aa0e9cae0156a4762abdb579fd488baf26c342ea206d1a9fc62412766f48c963"
         },
         "pipfile-spec": 6,
         "requires": {
@@ -72,6 +72,14 @@
             "index": "pypi",
             "version": "==19.10b0"
         },
+        "bump2version": {
+            "hashes": [
+                "sha256:477f0e18a0d58e50bb3dbc9af7fcda464fd0ebfc7a6151d8888602d7153171a0",
+                "sha256:cd4f3a231305e405ed8944d8ff35bd742d9bc740ad62f483bd0ca21ce7131984"
+            ],
+            "index": "pypi",
+            "version": "==1.0.0"
+        },
         "click": {
             "hashes": [
                 "sha256:d2b5255c7c6349bc1bd1e59e08cd12acbbd63ce649f2588755783aa94dfb6b1a",
@@ -85,7 +93,7 @@
                 "sha256:7d73d2a99753107a36ac6b455ee49046802e59d9d076ef8e47b61499fa29afff",
                 "sha256:e96da0d330793e2cb9485e9ddfd918d456036c7149416295932478192f4436a1"
             ],
-            "markers": "platform_system == 'Windows'",
+            "markers": "sys_platform == 'win32'",
             "version": "==0.4.3"
         },
         "distlib": {

@@ -7,6 +7,7 @@ verify_ssl = true
 pylint = "*"
 black = "*"
 tox = "*"
+bump2version = "*"
 
 [packages]
 pyyaml = "*"
