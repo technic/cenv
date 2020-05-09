@@ -57,7 +57,7 @@ class TestCenv(unittest.TestCase):
         runner = CliRunner()
         result = runner.invoke(cli.main)
         assert result.exit_code == 0
-        assert "cenv_script.cli.main" in result.output
         help_result = runner.invoke(cli.main, ["--help"])
         assert help_result.exit_code == 0
-        assert "--help  Show this message and exit." in help_result.output
+        print(help_result.output)
+        assert "--help" in help_result.output
