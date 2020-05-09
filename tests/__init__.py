@@ -1,1 +1,1 @@
-"""Unit test package for cenv."""
+"""Unit test package for cenv_script."""

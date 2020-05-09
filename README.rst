@@ -1,16 +1,16 @@
-========================
-conda environment helper
-========================
+===============================
+conda environment helper script
+===============================
 
 
-.. image:: https://img.shields.io/pypi/v/cenv.svg
-        :target: https://pypi.python.org/pypi/cenv
+.. image:: https://img.shields.io/pypi/v/cenv_script.svg
+        :target: https://pypi.python.org/pypi/cenv_script
 
-.. image:: https://img.shields.io/travis/technic/cenv.svg
-        :target: https://travis-ci.com/technic/cenv
+.. image:: https://img.shields.io/travis/technic/cenv_script.svg
+        :target: https://travis-ci.com/technic/cenv_script
 
-.. image:: https://readthedocs.org/projects/cenv/badge/?version=latest
-        :target: https://cenv.readthedocs.io/en/latest/?badge=latest
+.. image:: https://readthedocs.org/projects/cenv-script/badge/?version=latest
+        :target: https://cenv-script.readthedocs.io/en/latest/?badge=latest
         :alt: Documentation Status
 
 
@@ -21,13 +21,13 @@ It is quite dummy but useful in simple case scenarios.
 
 
 * Free software: MIT license
-* Documentation: https://cenv.readthedocs.io.
+* Documentation: https://cenv-script.readthedocs.io.
 
 
 Features
 --------
 
-* You run `cenv install numpy`, it calls `conda install numpy` checks for errors and then updates corresponding environment.yml
+* You run `cenv-script install numpy`, it calls `conda install numpy` checks for errors and then updates corresponding environment.yml
 
 Credits
 -------

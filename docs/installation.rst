@@ -8,13 +8,13 @@ Installation
 Stable release
 --------------
 
-To install conda environment helper, run this command in your terminal:
+To install conda environment helper script, run this command in your terminal:
 
 .. code-block:: console
 
-    $ pip install cenv
+    $ pip install cenv_script
 
-This is the preferred method to install conda environment helper, as it will always install the most recent stable release.
+This is the preferred method to install conda environment helper script, as it will always install the most recent stable release.
 
 If you don't have `pip`_ installed, this `Python installation guide`_ can guide
 you through the process.
@@ -26,19 +26,19 @@ you through the process.
 From sources
 ------------
 
-The sources for conda environment helper can be downloaded from the `Github repo`_.
+The sources for conda environment helper script can be downloaded from the `Github repo`_.
 
 You can either clone the public repository:
 
 .. code-block:: console
 
-    $ git clone git://github.com/technic/cenv
+    $ git clone git://github.com/technic/cenv_script
 
 Or download the `tarball`_:
 
 .. code-block:: console
 
-    $ curl -OJL https://github.com/technic/cenv/tarball/master
+    $ curl -OJL https://github.com/technic/cenv_script/tarball/master
 
 Once you have a copy of the source, you can install it with:
 
@@ -47,5 +47,5 @@ Once you have a copy of the source, you can install it with:
     $ python setup.py install
 
 
-.. _Github repo: https://github.com/technic/cenv
-.. _tarball: https://github.com/technic/cenv/tarball/master
+.. _Github repo: https://github.com/technic/cenv_script
+.. _tarball: https://github.com/technic/cenv_script/tarball/master

@@ -9,7 +9,7 @@ if "%SPHINXBUILD%" == "" (
 )
 set SOURCEDIR=.
 set BUILDDIR=_build
-set SPHINXPROJ=cenv
+set SPHINXPROJ=cenv_script
 
 if "%1" == "" goto help
 

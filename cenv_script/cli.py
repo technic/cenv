@@ -1,9 +1,9 @@
-"""Console script for cenv."""
+"""Console script for cenv_script."""
 import sys
 from functools import wraps
 import traceback
 import click
-from cenv.cenv import CondaEnv, CondaEnvException
+from cenv_script.cenv_script import CondaEnv, CondaEnvException
 
 
 def catch(func):

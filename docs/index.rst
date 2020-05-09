@@ -1,5 +1,5 @@
-Welcome to conda environment helper's documentation!
-======================================
+Welcome to conda environment helper script's documentation!
+===========================================================
 
 .. toctree::
    :maxdepth: 2

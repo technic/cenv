@@ -1,4 +1,4 @@
-* conda environment helper version:
+* conda environment helper script version:
 * Python version:
 * Operating System:
 
