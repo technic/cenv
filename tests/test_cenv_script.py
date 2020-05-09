@@ -59,5 +59,4 @@ class TestCenv(unittest.TestCase):
         assert result.exit_code == 0
         help_result = runner.invoke(cli.main, ["--help"])
         assert help_result.exit_code == 0
-        print(help_result.output)
         assert "--help" in help_result.output
