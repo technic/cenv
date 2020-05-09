@@ -27,7 +27,8 @@ It is quite dummy but useful in simple case scenarios.
 Features
 --------
 
-* You run `cenv-script install numpy`, it calls `conda install numpy` checks for errors and then updates corresponding environment.yml
+* You run ``cenv-script install numpy``
+* It calls ``conda install numpy``, checks for errors and then updates corresponding environment.yml
 
 Credits
 -------
