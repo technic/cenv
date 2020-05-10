@@ -263,7 +263,7 @@ class CondaEnv:
 
     def _write_env_file(self):
         with open(self._env_file, "w") as f:
-            yaml.dump(self._data, f)
+            yaml.dump(self._data, f, sort_keys=False)
         print("Updated %s" % ENV_FILE)
 
     def _get_deps(self):
