@@ -6,7 +6,7 @@ conda environment helper script
 .. image:: https://img.shields.io/pypi/v/cenv_script.svg
         :target: https://pypi.python.org/pypi/cenv_script
 
-.. image:: https://img.shields.io/travis/technic/cenv_script.svg
+.. image:: https://travis-ci.com/technic/cenv_script.svg?branch=master
         :target: https://travis-ci.com/technic/cenv_script
 
 .. image:: https://readthedocs.org/projects/cenv-script/badge/?version=latest
